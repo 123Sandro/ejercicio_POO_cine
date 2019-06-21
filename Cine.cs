@@ -44,5 +44,15 @@ namespace ejercicio_POO_cine
             Console.WriteLine("Director: " + largo2.Director);
             Console.WriteLine("Duracion: " + largo2.Duracion);
         }
+        public void saludo()
+        {
+
+            Console.WriteLine("Saludar");
+        }
+        public void adios()
+        {
+
+            Console.WriteLine("Adios");
+        }
     }
 }
