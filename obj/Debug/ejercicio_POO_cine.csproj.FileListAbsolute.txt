@@ -1,0 +1,9 @@
+C:\Users\ING.SANDRO\Documents\Visual Studio 2012\Projects\Curso C#\Ejercicio_bloque_I\ejercicio_POO_cine\bin\Debug\ejercicio_POO_cine.exe.config
+C:\Users\ING.SANDRO\Documents\Visual Studio 2012\Projects\Curso C#\Ejercicio_bloque_I\ejercicio_POO_cine\bin\Debug\ejercicio_POO_cine.exe
+C:\Users\ING.SANDRO\Documents\Visual Studio 2012\Projects\Curso C#\Ejercicio_bloque_I\ejercicio_POO_cine\bin\Debug\ejercicio_POO_cine.pdb
+C:\Users\ING.SANDRO\Documents\Visual Studio 2012\Projects\Curso C#\Ejercicio_bloque_I\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.exe
+C:\Users\ING.SANDRO\Documents\Visual Studio 2012\Projects\Curso C#\Ejercicio_bloque_I\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.pdb
+C:\Users\ING.SANDRO\Documents\Visual Studio 2012\Projects\Curso C#\Ejercicio_bloque_I\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.csprojResolveAssemblyReference.cache
+C:\Git\ejercicio_POO_cine\bin\Debug\ejercicio_POO_cine.exe.config
+C:\Git\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.exe
+C:\Git\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.pdb
