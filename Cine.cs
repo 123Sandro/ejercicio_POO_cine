@@ -11,6 +11,7 @@ namespace ejercicio_POO_cine
         //Propiedades
         public string Nombre { get; set; }
         public string Funcion { get; set; }
+        public String Direccion { get; set; }
 
         //Constructores
         public Cine() {
